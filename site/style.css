@@ -38,7 +38,7 @@
     padding: 20px;
     border: 1px solid #444;
     border-radius: 5px;
-    background-color:  #e1ebee;
+    background-color:  #f3f6f7;
     display: flex;
     align-items: center;
     color: #000;
@@ -90,10 +90,10 @@
     word-break: normal;
     word-wrap: normal;
     line-height: 2.0;
-    background-color: rgb(128, 250, 138);
+    background-color: rgb(244, 247, 234);
     /* box-shadow: 2px 2px 2px gray ; */
-    color: #010f0b;
-    /* font-size: 15px; */
+    color: #ee0606;
+    font-size: 15px;
     border-radius: 5px;
 
   }
